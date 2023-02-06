@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mi_Store_React_Clone/static/css/main.69795981.css",
+    "main.js": "/Mi_Store_React_Clone/static/js/main.6d3f709d.js",
+    "index.html": "/Mi_Store_React_Clone/index.html",
+    "main.69795981.css.map": "/Mi_Store_React_Clone/static/css/main.69795981.css.map",
+    "main.6d3f709d.js.map": "/Mi_Store_React_Clone/static/js/main.6d3f709d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69795981.css",
+    "static/js/main.6d3f709d.js"
+  ]
+}
